@@ -2,7 +2,7 @@
 
 Простое приложение написанное на Python с использованием фреймворка Flask, которое дает возможность пользователям отслеживать вещи, которые они хотят достичь и испытать до того как доживут до определенного возраста, а также разделить радость этого опыта с другими людьми.
 
-![](https://github.com/mementomorri/python_bucket_list_app/blob/main/images/Screenshot_3.png)
+![](https://github.com/mementomorri/python_bucket_list_app/blob/main/images/Screenshot_2.png)
 
 ## Зависимости к библиотекам Python
 
