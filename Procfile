@@ -1,1 +1,1 @@
-web: gunicorn run:python-bucket-list
+web: gunicorn app:python-bucket-list
